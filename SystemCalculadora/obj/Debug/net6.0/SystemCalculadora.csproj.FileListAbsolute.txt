@@ -1,0 +1,15 @@
+D:\zZz\Docs\Practicas Cubits\TestCalculadoraSystem\SystemCalculadora\obj\Debug\net6.0\SystemCalculadora.csproj.AssemblyReference.cache
+D:\zZz\Docs\Practicas Cubits\TestCalculadoraSystem\SystemCalculadora\obj\Debug\net6.0\SystemCalculadora.GeneratedMSBuildEditorConfig.editorconfig
+D:\zZz\Docs\Practicas Cubits\TestCalculadoraSystem\SystemCalculadora\obj\Debug\net6.0\SystemCalculadora.AssemblyInfoInputs.cache
+D:\zZz\Docs\Practicas Cubits\TestCalculadoraSystem\SystemCalculadora\obj\Debug\net6.0\SystemCalculadora.AssemblyInfo.cs
+D:\zZz\Docs\Practicas Cubits\TestCalculadoraSystem\SystemCalculadora\obj\Debug\net6.0\SystemCalculadora.csproj.CoreCompileInputs.cache
+D:\zZz\Docs\Practicas Cubits\TestCalculadoraSystem\SystemCalculadora\bin\Debug\net6.0\SystemCalculadora.exe
+D:\zZz\Docs\Practicas Cubits\TestCalculadoraSystem\SystemCalculadora\bin\Debug\net6.0\SystemCalculadora.deps.json
+D:\zZz\Docs\Practicas Cubits\TestCalculadoraSystem\SystemCalculadora\bin\Debug\net6.0\SystemCalculadora.runtimeconfig.json
+D:\zZz\Docs\Practicas Cubits\TestCalculadoraSystem\SystemCalculadora\bin\Debug\net6.0\SystemCalculadora.dll
+D:\zZz\Docs\Practicas Cubits\TestCalculadoraSystem\SystemCalculadora\bin\Debug\net6.0\SystemCalculadora.pdb
+D:\zZz\Docs\Practicas Cubits\TestCalculadoraSystem\SystemCalculadora\obj\Debug\net6.0\SystemCalculadora.dll
+D:\zZz\Docs\Practicas Cubits\TestCalculadoraSystem\SystemCalculadora\obj\Debug\net6.0\refint\SystemCalculadora.dll
+D:\zZz\Docs\Practicas Cubits\TestCalculadoraSystem\SystemCalculadora\obj\Debug\net6.0\SystemCalculadora.pdb
+D:\zZz\Docs\Practicas Cubits\TestCalculadoraSystem\SystemCalculadora\obj\Debug\net6.0\SystemCalculadora.genruntimeconfig.cache
+D:\zZz\Docs\Practicas Cubits\TestCalculadoraSystem\SystemCalculadora\obj\Debug\net6.0\ref\SystemCalculadora.dll
